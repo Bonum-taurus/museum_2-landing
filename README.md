@@ -1,6 +1,6 @@
 # MUSEUM-2 landing page
 
-This landing page describes the activities of the National Art Museum of Ukraine. Here is a description of events that you can visit in the near future. There is also a gallery of several popular paintings. It is possible to book tickets and subscribe to the newsletter of current events. The landing page also contains the address of the museum and contacts for additional information.
+The National Art Museum of Ukraine is presented in this landing page. Here you can see current performances and upcoming performances. You can also register for master classes and buy tickets. You can also see the latest news of the museum and subscribe to the newsletter of current information. There is an address and contacts of the museum.
 
 # [DEMO LINK](https://bonum-taurus.github.io/museum_2-landing/)
 
