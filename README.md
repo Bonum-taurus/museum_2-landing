@@ -11,7 +11,7 @@ This landing page describes the activities of the National Art Museum of Ukraine
 - BEM
 - JavaScript
 
-# [Layout link](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
+# [Layout link](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
 
 # Project Setup
 - install node 14+
